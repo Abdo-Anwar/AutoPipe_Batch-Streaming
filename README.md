@@ -27,7 +27,7 @@ The pipeline demonstrates how raw data can be ingested, processed, and stored fo
 ## 📅 Project Status
 ✅ First working version completed.  
 ⚙️ Currently working on improvements & new features.  
-🗓️ Next major update planned on **29 September 2025**.
+🗓️ Next major update planned on **29 September 2025** (with Full project Details).
 
 ---
 
